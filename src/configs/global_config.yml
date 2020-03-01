@@ -1,0 +1,6 @@
+GJS_1:
+    server_listening_url: 127.0.0.1:4730
+
+worker_ids:
+    task_distributor: task_distributor
+    task_executor: task_executor
