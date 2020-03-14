@@ -1,4 +1,4 @@
-### Distributed logs processor with gearman
+### An elegant and generic application framework for distributed processing.
 
 1. Setup gearadmin and gearman with.
 
@@ -12,7 +12,7 @@
 
 3. You can get the gearman python package from
 
-   [gearman package](https://github.com/hanchau/logs_processor/tree/feature/arch/dependencies/gearman)
+   [gearman package](https://github.com/hanchau/gearman_to_the_rescue/tree/feature/arch/dependencies/gearman)
 
 
 4. I'm using python
